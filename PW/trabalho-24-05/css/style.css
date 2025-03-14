@@ -113,6 +113,8 @@ main p {
 
 iframe {
     border-radius: 0px;
+    height: 400px;
+    width: 600px;
 }
 
 /* ====== FOOTER ====== */
